@@ -5,6 +5,6 @@ Statuses сервис хранит в себе статусы для reports и 
 <br />
 После запросов на http://localhost:{port}/determineReportStatus и http://localhost:{port}/determineReportAccountant, сохраняет в reportInfo и accountantInfo текущие связи по id.
 <br />
-Reports сервис. Хранит информацию об отчётах и связь по id c бухгалтером.
+Reports сервис хранит информацию об отчётах и связь по id c бухгалтером.
 <br />
-Accountant сервис. Хранит информацию о бухгалтерах и их текущему статусу.
+Accountant сервис хранит информацию о бухгалтерах и их текущему статусу.
