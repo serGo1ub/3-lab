@@ -1,7 +1,7 @@
 # 3-lab
-В данной работе представлены три сервиса: accountants, statuses и reports
+В данной работе представлены три сервиса: accountants, statuses и reports.
 <br />
-Statuses сервис. Хранит в себе статусы для reports и для accountants. 
+Statuses сервис хранит в себе статусы для reports и для accountants. 
 <br />
 После запросов на http://localhost:{port}/determineReportStatus и http://localhost:{port}/determineReportAccountant, сохраняет в reportInfo и accountantInfo текущие связи по id.
 <br />
